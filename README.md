@@ -1,5 +1,7 @@
-# Leetcode
-Leetcode codes
+LeetCode
+========
+
+### LeetCode Algorithm
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
