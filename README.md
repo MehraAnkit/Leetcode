@@ -9,4 +9,4 @@ LeetCode
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [C++](./algorithms/trapping_rain_water.cpp)|Hard|
 |42|[3Sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/3sum.cpp)|Medium|
 |912|[Sort An Array](https://leetcode.com/problems/sort-an-array/) | [C++](./algorithms/sortAnArray.cpp)|Medium|
-|1356|[Sort Integers By the number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [C++](./algorithms/)|Easy|
+|1356|[Sort Integers By the number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [C++](./algorithms/sort-integers-by-the-number-of-1-bits.cpp)|Easy|
